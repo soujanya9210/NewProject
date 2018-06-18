@@ -8,5 +8,6 @@ public class Register
 	public void createUser()
 	{
 		System.out.println("user created");
+		System.out.println("user1 created");
 	}
 }
